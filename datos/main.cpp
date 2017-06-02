@@ -17,7 +17,6 @@ int main()
     vectorpersonas[0]->mostrar();
     cout<<endl;
     vectorpersonas[1]->mostrar();
-    delete Gerente;
-    delete Conserje;
+    
     return 0;
 }
