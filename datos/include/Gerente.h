@@ -11,7 +11,7 @@ class Gerente:public Persona{
     int oficina=3;
 public:
     Gerente(string n,Birthay b,int d,string p):Persona(n,b,d,p){}
-    void mostrar(){cout<<name<<" "<<oficina<<" "<<cumple.edad()<<" "<<dni<<" "<<pais;}
+    void mostrar(){cout<<" nombre:  "<<name<<" numero de oficina:  "<<oficina<<"  edad: "<<cumple.edad()<<"  dni:  "<<dni<<"  pais :"<<pais;}
 
 };
 
