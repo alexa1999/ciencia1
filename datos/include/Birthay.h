@@ -1,9 +1,9 @@
-
 #ifndef BIRTHAY_H
 #define BIRTHAY_H
 #include <iostream>
-
+#include <string>
 using namespace std;
+
 
 class Birthay
 {
@@ -27,5 +27,4 @@ class Birthay
         return x;
     }
 };
-
 #endif // BIRTHAY_H

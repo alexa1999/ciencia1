@@ -1,7 +1,42 @@
 # depslib dependency file v1.0
-1496346837 source:d:\ji\datos\src\birthay.cpp
+1496422650 source:d:\ciencia_de_computacion\datos\src\birthay.cpp
 	"Birthay.h"
 
-1496346844 d:\ji\datos\include\birthay.h
+1496422776 d:\ciencia_de_computacion\datos\include\birthay.h
 	<iostream>
+	<string>
+
+1496423050 source:d:\ciencia_de_computacion\datos\main.cpp
+	<iostream>
+	"Birthay.h"
+	"Persona.h"
+	"Gerente.h"
+	"Conserje.h"
+
+1496423205 d:\ciencia_de_computacion\datos\include\persona.h
+	<iostream>
+	<string>
+	"Birthay.h"
+
+1496423205 d:\ciencia_de_computacion\datos\include\gerente.h
+	<iostream>
+	"Birthay.h"
+	"Persona.h"
+	<string>
+
+1496423205 d:\ciencia_de_computacion\datos\include\conserje.h
+	<iostream>
+	"Birthay.h"
+	"Persona.h"
+	"Gerente.h"
+	<string>
+
+1496422650 source:d:\ciencia_de_computacion\datos\src\conserje.cpp
+	"Conserje.h"
+
+1496422650 source:d:\ciencia_de_computacion\datos\src\gerente.cpp
+	"Gerente.h"
+
+1496422650 source:d:\ciencia_de_computacion\datos\src\persona.cpp
+	"Persona.h"
 
